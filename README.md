@@ -9,3 +9,6 @@
 #### 1) Flights at ABIA
 #### 2) Author attribution
 #### 3) Practice with association rule mining
+
+
+### Linear Programming: Building a simple marketing budget allocation strategy.
