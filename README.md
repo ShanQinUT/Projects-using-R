@@ -12,3 +12,4 @@
 
 
 ### Linear Programming: Building a simple marketing budget allocation strategy.
+### Supply Chain: Forecasting SKU Demand at the Point of Sale
